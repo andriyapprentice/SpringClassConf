@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="db2030config@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="db2030config">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="bank"/>
+    <schema id="4" parent="1" name="db2030"/>
+    <schema id="5" parent="1" name="db2030book"/>
+    <schema id="6" parent="1" name="db2030jpa"/>
+    <schema id="7" parent="1" name="db2030sp"/>
+    <schema id="8" parent="1" name="db2030spring"/>
+    <schema id="9" parent="1" name="db2030spring2030"/>
+    <schema id="10" parent="1" name="information_schema"/>
+    <schema id="11" parent="1" name="mysql"/>
+    <schema id="12" parent="1" name="performance_schema"/>
+    <schema id="13" parent="1" name="sakila"/>
+    <schema id="14" parent="1" name="sys"/>
+    <schema id="15" parent="1" name="world"/>
+  </database-model>
+</dataSource>

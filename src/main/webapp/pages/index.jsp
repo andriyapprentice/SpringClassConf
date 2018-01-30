@@ -10,10 +10,10 @@
 <head>
     <title>Title</title>
 
-    <link rel="stylesheet" href="../static/resources/style/main.css"
-    hello
+    /*<%--//<link rel="stylesheet" href="../static/resources/style/main.css">--%>*/
+    /*<%--<link rel="stylesheet" href="../css/main.css">--%>*/
 </head>
 <body>
-
+index page
 </body>
 </html>
